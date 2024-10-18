@@ -13,5 +13,7 @@ Do a data analysis process , while applying A/B testing methodology between a Co
 
 ### A few screenshots of graphs computed: <br>
 
-![Capture d'écran](images/capture.png)
+![repartition on gender](images/repartition_on_gender.png)  
+![client_tenure_in_years](images/client_tenure_in_years.png) 
+![client_tenure_distribution](images/client_tenure_distribution.png) 
 
