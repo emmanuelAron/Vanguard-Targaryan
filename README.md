@@ -15,6 +15,7 @@ Do a data analysis process , while applying A/B testing methodology between a Co
 
 ![repartition on gender](images/repartition_on_gender.png)  
 ![client_tenure_in_years](images/client_tenure_in_years.png) 
-![client_tenure_distribution](images/client_tenure_distribution.png) 
+![client_tenure_distribution](images/client_tenure_distribution.png) <br>
+## Graphs taken with Tableau public tool: <br>
 ![tableau_dashboard](images/tableau_dashboard.png) 
 
